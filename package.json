@@ -1,0 +1,16 @@
+{
+  "name": "kopke",
+  "version": "1.0.0",
+  "description": "helo",
+  "main": "main.js",
+  "scripts": {
+    "test": "helo"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
